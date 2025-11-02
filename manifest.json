@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Save tracker",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "green-check-mark-icon_1090394-158337.jpg"
+        
+    },
+    "permissions": ["tabs"]
+   
+}
